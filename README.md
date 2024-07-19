@@ -6,11 +6,6 @@ New to Java, Python, or C++? This user-friendly course introduces object-oriente
 
 - Java
 
-## Key Features
-
-- 🧑‍🎓 **Comprehensive Learning Modules**: Covers core OOP concepts with interactive and engaging content.
-- 🎮 **Interactive Activities**: Includes a matching game and quiz with scoring and feedback to reinforce OOP principles.
-
 ## Technical Breakdown
 
 - **OOP Concepts**: Researched and deconstructed key OOP concepts such as inheritance, polymorphism, and encapsulation to develop thorough learning modules.
