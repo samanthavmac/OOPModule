@@ -5,8 +5,6 @@ New to Java, Python, or C++? This user-friendly course introduces object-oriente
 ## Languages/Tools
 
 - Java
-- Python
-- C++
 
 ## Key Features
 
